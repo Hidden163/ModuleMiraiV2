@@ -5,4 +5,4 @@
 - **changemymind** - Ví dụ !changemymind hi
 - **covid** -Tìm kiếm thông tin dịch covid theo tên quốc gia! Ví dụ !covid Vietnam
 - -------------------------------------------------------------------------
-- Author : Trung Kiên
+- Author :Thiệu Trung Kiên
