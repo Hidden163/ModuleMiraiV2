@@ -1,4 +1,4 @@
-# ModuleMiraiV2
+# Module Mirai
 # Module
 - **kannagen** - Tạo fact ! Ví dụ : !kannagen hi
 - **fact** - Tạo fact phong cách anime ! Ví dụ : !fact hi
